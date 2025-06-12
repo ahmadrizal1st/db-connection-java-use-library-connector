@@ -70,7 +70,7 @@ Agar proyek dapat menggunakan JDBC, Anda perlu menambahkan file `mysql-connector
 
 ### Tampilan di NetBeans:
 
-![Struktur NetBeans](Screenshot%202025-06-12%20at%2021.28.13.png)
+![Struktur NetBeans](img/folder-structure.png)
 
 ---
 
