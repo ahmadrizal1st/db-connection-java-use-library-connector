@@ -92,8 +92,9 @@ A003  Budi Santoso    Jl. Diponegoro No.22, Bantul  083456789012
 ## 👤 Author
 
 * Nama: Ahmad Rizal
+* NIM: 231057014
 * Universitas: AKPRIND Indonesia
-* Email: *\[tambahkan jika perlu]*
+* Email: ahmaddrizalul@gmail.com
 
 ---
 
